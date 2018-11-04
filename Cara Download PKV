@@ -1,0 +1,163 @@
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<script src="js/jquery.js"></script>
+<title>DOWNLOAD</title>
+<style>
+	h1,h2,h3,h4,p,a,ul,li {margin:0; padding:0;}
+	h1 {font-size:25px;}
+	body {padding:0; margin: 0; font-family: verdana,geneva,sans-serif}
+	.container {width:700px; margin-left: auto; margin-right: auto;}
+	.title {padding:5px; background-color:#b8005f; color: white;}
+	.menu {width:680px; float:left; padding:15px; color: white;}
+	.menu ul li{display: inline; padding: 10px 20px; cursor: pointer; background-color:grey; box-shadow: 2px 2px 2px #000000;}
+	.content {width:680px;float:left; padding:10px; background-color:ivory; border-radius: 5px;}
+	.content img {max-width:680px;}
+	.content_barcode {display:none;}
+</style>
+<script>
+	$(document).ready(function(){
+		$(".but_web").click(function(){
+			$(".content_web").fadeIn(500);
+			$(".content_barcode").hide(0);
+		});
+		$(".but_bar").click(function(){
+			$(".content_barcode").fadeIn(500);
+			$(".content_web").hide(0);
+		});
+});	
+</script>
+</head>
+<body>
+<div class="title">
+		<h3>Cara Download dan Install</h3>
+</div>
+<div class="container">
+	<div class="header">
+		<h1>Cara Download Aplikasi Adu Q , Bandar Poker , Bandar Q , Capsa Susun , Domino 99 , Poker , Sakong untuk Android, Ipad , dan Iphone</h1>
+	</div>
+	<div class="menu">
+		<ul>
+			<li class="but_web">Download Melalui Web</li>
+			<li class="but_bar">Scan Barcode</li>
+		</ul>
+	</div>
+	<div class="content">
+		<div class="content_web">
+		<h2>ANDROID</h2>
+			<h4>1. Buka Website Rajawaliqq.net melalui Smart Phone anda</h4>
+			<p>Pilih menu yang berada dipojok kanan atas</p> 
+			<p><b>[Jika anda menggunkan Desktop Mode silahkan melakukan login terlebih dahulu untuk dapat mendownload aplikasi]</b></p>
+			<img src="img/web/1.png">
+			<hr>
+			<h4>2. Klik menu download seperti gambar dibawah :</h4>
+			<img src="img/web/2.png">
+			<HR>
+			<h4>3. Pilih type Smart Phone anda</h4>
+			<img src="img/web/3.png">
+			<HR>
+			<h4>4. Klik Icon dibawah untuk mulai mendownload</h4>
+			<img src="img/web/5.png">
+			<HR>
+			<h4>5. Pilih ALLOW</h4>
+			<img src="img/web/7.png">
+			<HR>
+			<h4>6. Pilih OK</h4>
+			<img src="img/web/8.png">
+			<HR>
+			<h4>7. Tunggu hingga download selesai</h4>
+			<img src="img/web/9.png">
+			<HR>
+			<h4>8. Klik file hasil download</h4>
+			<img src="img/web/10.png">
+			<HR>
+			<h4>9. Pilih INSTALL</h4>
+			<img src="img/web/11.png">
+			<HR>
+			<h4>10. Tunggu hinggal game berhasil terinstall</h4>
+			<img src="img/web/12.png">
+			<HR>
+			<h4>11. Pilih OPEN</h4>
+			<img src="img/web/13.png">
+			<HR>
+			<h4>12. Untuk pertama kali install aplikasi ini anda akan diminta memasukan URL, silahkan masukan rajawaliqq.net (tanpa menggunakan www). Seperti di bawah ini, dan juga silahkan memasukan id & password anda</h4>
+			<img src="img/web/14.png">
+			<HR>
+			<h4>13. Pilih game yang anda inginkan untuk dimainkan, dan game sudah dapat dimainkan.</h4>
+			<img src="img/web/15.png">
+			<HR>
+			<img src="img/web/16.png">
+			<HR>
+			<h2>IPHONE / IPAD</h2>
+			<h4>
+			Untuk Iphone dan IPAD caranya lebih mudah, ikuti cara seperti versi android di atas hingga nomor 3, maka IPHONE dan IPAD akan langsung ke tahap install, tidak perlu download file. Setelah selesai install, anda hanya tinggal masukan URL dan LOGIN seperti pada langkah nomor 12.
+			</h4>
+		</div>
+		
+		
+		
+		
+		<div class="content_barcode">
+			<h2>ANDROID</h2>
+			<h4>1. Jika anda tidak memiliki aplikasi scanner silahkan download dibawah ini:</h4>
+			<img src="img/barcode/1.png">
+			<hr>
+			<h4>2. Silahkan melakukan scan barcode dibawah ini :</h4>
+			<table>
+				<tr>
+					<td>ANDROID :</td>
+					<td><img src="img/barcode/AndroidBarcode.gif"></td>
+				</tr>
+				<tr>
+					<td>IOS :</td>
+					<td><img src="img/barcode/iosBarcode.gif"></td>
+				</tr>
+			</table>
+			<img src="img/barcode/2.png">
+			<hr>
+			<h4>4. Klik Icon dibawah untuk mulai mendownload</h4>
+			<img src="img/barcode/5.png">
+			<HR>
+			<h4>5. Pilih ALLOW</h4>
+			<img src="img/barcode/7.png">
+			<HR>
+			<h4>6. Pilih OK</h4>
+			<img src="img/barcode/8.png">
+			<HR>
+			<h4>7. Tunggu hingga download selesai</h4>
+			<img src="img/barcode/9.png">
+			<HR>
+			<h4>8. Klik file hasil download</h4>
+			<img src="img/barcode/10.png">
+			<HR>
+			<h4>9. Pilih INSTALL</h4>
+			<img src="img/barcode/11.png">
+			<HR>
+			<h4>10. Tunggu hinggal game berhasil terinstall</h4>
+			<img src="img/barcode/12.png">
+			<HR>
+			<h4>11. Pilih OPEN</h4>
+			<img src="img/barcode/13.png">
+			<HR>
+			<h4>12. Untuk pertama kali install aplikasi ini anda akan diminta memasukan URL, silahkan masukan rajawaliqq.net (tanpa menggunakan www). Seperti di bawah ini, dan juga silahkan memasukan id & password anda</h4>
+			<img src="img/barcode/14.png">
+			<HR>
+			<h4>13. Pilih game yang anda inginkan untuk dimainkan, dan game sudah dapat dimainkan.</h4>
+			<img src="img/barcode/15.png">
+			<HR>
+			<img src="img/barcode/16.png">
+			<HR>
+			<h2>IPHONE / IPAD</h2>
+			<h4>
+			Untuk Iphone dan IPAD caranya lebih mudah, silahkan langsung scan barcode pada langkah nomor 2, maka IPHONE dan IPAD akan langsung ke tahap install, tidak perlu download file. Setelah selesai install, anda hanya tinggal masukan URL dan LOGIN seperti pada langkah nomor 12.
+			</h4>
+		</div>
+	</div>
+	<h3>Jika ada masalah saat download dan install, anda bisa langsung bertanya kepada CS Rajawaliqq.net melalui livechat, atau bisa melalui kontak berikut :</h3>
+<p>BBM : D1A198EA</p>
+<p>YM : <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3042515a5147515c596161704951585f5f1e535f5d">[email&#160;protected]</a></p>
+<p>FB : RajawaliQQ</p>
+<p>Skype : rajawaliqq</p>
+<p>No. tlp / WA : +855 969 574 481</p>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body></html>
